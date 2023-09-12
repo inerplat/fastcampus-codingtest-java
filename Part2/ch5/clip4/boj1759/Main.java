@@ -1,5 +1,3 @@
-package part2.ch5.boj1759;
-
 import java.util.Arrays;
 import java.util.Scanner;
 

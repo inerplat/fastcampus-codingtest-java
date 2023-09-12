@@ -1,5 +1,3 @@
-package part4.ch5.boj1525;
-
 import java.util.*;
 
 public class Main {

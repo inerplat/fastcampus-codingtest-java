@@ -1,5 +1,3 @@
-package part2.ch5.boj1208;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

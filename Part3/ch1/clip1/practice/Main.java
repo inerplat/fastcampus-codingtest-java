@@ -1,5 +1,3 @@
-package part3.ch1.practice;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

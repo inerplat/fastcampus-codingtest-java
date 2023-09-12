@@ -1,5 +1,3 @@
-package part2.ch3.fibo;
-
 import java.util.Scanner;
 
 class Main {

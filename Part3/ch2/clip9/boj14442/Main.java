@@ -1,5 +1,3 @@
-package part3.ch2.boj14442;
-
 
 import java.util.LinkedList;
 import java.util.Queue;

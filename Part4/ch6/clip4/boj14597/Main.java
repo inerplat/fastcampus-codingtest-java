@@ -1,5 +1,3 @@
-package part4.ch6.boj14597;
-
 import java.util.Arrays;
 import java.util.Scanner;
 

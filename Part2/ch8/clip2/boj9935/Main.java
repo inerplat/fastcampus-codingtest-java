@@ -1,5 +1,3 @@
-package part2.ch8.boj9935;
-
 import java.util.Scanner;
 import java.util.Stack;
 

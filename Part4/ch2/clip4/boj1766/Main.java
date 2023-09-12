@@ -1,5 +1,3 @@
-package part4.ch2.boj1766;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.PriorityQueue;

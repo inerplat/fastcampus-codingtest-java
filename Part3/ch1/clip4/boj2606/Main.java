@@ -1,5 +1,3 @@
-package part3.ch1.boj2606;
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;

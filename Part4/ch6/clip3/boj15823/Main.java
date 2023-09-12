@@ -1,5 +1,3 @@
-package part4.ch6.boj15823;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

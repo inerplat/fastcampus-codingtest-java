@@ -1,5 +1,3 @@
-package part3.ch2.boj1697;
-
 import java.util.*;
 
 

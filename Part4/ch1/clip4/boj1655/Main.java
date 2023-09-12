@@ -1,5 +1,3 @@
-package part4.ch1.boj1655;
-
 import java.util.PriorityQueue;
 import java.util.Scanner;
 

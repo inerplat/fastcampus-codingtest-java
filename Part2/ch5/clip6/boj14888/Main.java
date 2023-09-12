@@ -1,5 +1,3 @@
-package part2.ch5.boj14888;
-
 import java.util.Scanner;
 
 class Main {
